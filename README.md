@@ -201,4 +201,4 @@ ODIN is available as a **full free version** with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-14 10:25:04 UTC
+**Last updated:** 2026-09-14 16:51:47 UTC
